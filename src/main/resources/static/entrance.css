@@ -54,7 +54,7 @@ html, body {
       -webkit-transition: all .3s ease; }
     .form-structor .signup .form-title {
       color: #fff;
-      font-size: 1.7em;
+      font-size: 1.5em;
       text-align: center; }
       .form-structor .signup .form-title span {
         color: rgba(0, 0, 0, 0.4);
@@ -65,7 +65,7 @@ html, body {
       border-radius: 15px;
       background-color: #fff;
       overflow: hidden;
-      margin-top: 50px;
+      margin-top: 40px;
       opacity: 1;
       visibility: visible;
       -webkit-transition: all .3s ease; }
@@ -145,7 +145,7 @@ html, body {
         background-color: #fff;
         border: 1px solid #eee;
         overflow: hidden;
-        margin-top: 50px;
+        margin-top: 25px;
         opacity: 1;
         visibility: visible;
         -webkit-transition: all .3s ease; }
@@ -156,7 +156,7 @@ html, body {
           display: block;
           height: 30px;
           line-height: 30px;
-          padding: 8px 15px;
+          padding: 6px 6px;
           border-bottom: 1px solid #eee;
           width: 100%;
           font-size: 12px; }
